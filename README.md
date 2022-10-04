@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML/CSS, Java, JavaScript, Springboot**
 
-- 📫 How to reach me **garry159@gmail.com**
+- 📫 How to reach me **sudchavan25@gmail.com**
 
 - My Portfolio - https://sudarshan-portfolio.netlify.app/
 
